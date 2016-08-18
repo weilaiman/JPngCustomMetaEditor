@@ -10,3 +10,6 @@ you run this project, you need some fore step:
 
 3, Run the project
 
+snapshot:
+
+![image](https://github.com/weilaiman/JPngCustomMetaEditor/blob/master/snapshot.png)
